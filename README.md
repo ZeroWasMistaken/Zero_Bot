@@ -1,2 +1,2 @@
 # Zero_Bot
-A Discord bot developed in JavaScript
+A Discord bot developed in JavaScript. 
